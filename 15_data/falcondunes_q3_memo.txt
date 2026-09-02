@@ -1,0 +1,39 @@
+FALCON DUNES TRADING LLC — INTERNAL Q3 PERFORMANCE MEMO (FICTIONAL)
+
+NOTE: Falcon Dunes Trading LLC is a fictional company created for the ISA 383 Retrieval-Augmented Generation demonstration. All figures are invented for teaching purposes.
+
+To:       All Heads of Department
+From:     Lina Abdelhamid, Chief Financial Officer
+Date:     12 October 2025
+Subject:  Q3 2025 Performance Summary and Q4 Priorities
+Document: FD-FIN-MEMO-2025-Q3
+
+REVENUE
+
+Total Q3 2025 revenue was AED 142.6 million, up 11.4% year-on-year. Growth was driven primarily by the Saudi Arabia market, where revenue grew 28% year-on-year to AED 38.1 million, continuing the pattern established since the Riyadh office opened in 2023. UAE domestic revenue was flat at AED 91.8 million, with the shortfall against budget of AED 4.2 million attributable to delayed contract awards in the construction materials segment.
+
+GROSS MARGIN
+
+Gross margin for Q3 was 22.8%, up 60 basis points on Q3 2024. The improvement reflects the full-quarter contribution from the new direct-sourcing agreement with Vietnamese suppliers signed in June.
+
+OPERATING EXPENSES
+
+Operating expenses were AED 21.3 million, in line with the Q3 budget. Notable items:
+
+  * Warehouse expansion at Jebel Ali (Phase 2) completed on 28 August, one week ahead of schedule and approximately AED 0.8 million under the original budget of AED 9.5 million.
+  * Oasis HR portal rollout completed company-wide on 15 September. Employee adoption in the first month was 93%, exceeding the 85% target.
+  * Salesforce CRM ("Project Gazelle") implementation continues. Go-live for the UAE sales team is scheduled for 1 December 2025; KSA migration will follow in Q1 2026.
+
+HEADCOUNT
+
+Headcount at quarter-end was 182 (Q3 2024: 171). Net hiring in Q3 was +6. Notable senior hires: Ms. Hanna Svensson joined as Head of Compliance on 1 September.
+
+Q4 PRIORITIES
+
+  1. Successful Project Gazelle go-live for the UAE sales team on 1 December.
+  2. Close at least two of the three pending construction-materials contracts currently in final negotiation.
+  3. Finalise the 2026 budget and submit to the Board by 12 November.
+  4. Complete the annual external audit fieldwork (PwC) on schedule by mid-January 2026.
+
+Queries on any of the above should be directed to the CFO's office.
+

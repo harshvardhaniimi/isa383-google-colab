@@ -1,0 +1,46 @@
+FALCON DUNES TRADING LLC — ORGANISATION CHART (FICTIONAL)
+
+NOTE: Falcon Dunes Trading LLC is a fictional company created for the ISA 383 Retrieval-Augmented Generation demonstration. All names and roles in this document are invented.
+
+Document ID: FD-ORG-2026-Q1
+Last updated: 5 January 2026
+Maintained by: Office of the Chief Operating Officer
+
+OVERVIEW
+
+Falcon Dunes Trading LLC is headquartered in Business Bay, Dubai, with a secondary office in Jebel Ali Free Zone (warehouse and logistics) and a regional sales office in Riyadh. Total headcount as of Q1 2026 is 187 employees.
+
+EXECUTIVE LEADERSHIP
+
+Chief Executive Officer (CEO): Mr. Khalid Al Marashi
+  - Joined the company as a co-founder in 2011.
+  - Reports to: Board of Directors.
+
+Chief Financial Officer (CFO): Ms. Lina Abdelhamid
+  - Joined the company in 2019 from a regional audit firm.
+  - Reports to: CEO.
+
+Chief Operating Officer (COO): Mr. Yusuf Haidari
+  - Joined the company in 2016.
+  - Reports to: CEO.
+
+Chief Technology Officer (CTO): Dr. Priya Menon
+  - Joined the company in 2023.
+  - Reports to: CEO.
+
+DEPARTMENT HEADS
+
+Head of Sales (MEA region): Mr. Omar Daoudi
+Head of Sales (KSA): Ms. Noor Al Saeed (based in Riyadh)
+Head of Supply Chain: Mr. Rajiv Kulkarni (based in Jebel Ali)
+Head of Finance and Reporting: Mr. Adnan Qureshi
+Head of People Operations: Ms. Aisha Bin Harmal
+Head of IT and Digital: Mr. Tarek Al Hammadi
+Head of Compliance: Ms. Hanna Svensson
+
+BOARD OF DIRECTORS
+
+The board consists of seven members, including three independent non-executive directors. The chairman is Mr. Abdulla Al Marashi (founder, non-executive).
+
+The board meets four times per year (February, May, August, November). An audit and risk committee and a remuneration committee operate under the board, each chaired by an independent non-executive director.
+

@@ -1,0 +1,30 @@
+From aisha@example.edu Sat Jan 01 09:00:00 2026
+From: aisha@example.edu
+Subject: Quarterly sales update
+Sales increased by 8 percent.
+
+From omar@example.edu Sat Jan 02 09:00:00 2026
+From: omar@example.edu
+Subject: Data-quality review
+An error was found in row 42.
+
+From fatima@example.org Sat Jan 03 09:00:00 2026
+From: fatima@example.org
+Subject: Customer survey
+The response file is attached.
+
+From zayed@example.com Sat Jan 04 09:00:00 2026
+From: zayed@example.com
+Subject: Inventory alert
+No error was detected after validation.
+
+From mariam@example.org Sat Jan 05 09:00:00 2026
+From: mariam@example.org
+Subject: Project meeting
+Please confirm the meeting time.
+
+From khalid@example.com Sat Jan 06 09:00:00 2026
+From: khalid@example.com
+Subject: Final report
+The report passed all checks.
+

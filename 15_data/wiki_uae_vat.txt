@@ -1,0 +1,14 @@
+Value Added Tax (VAT) in the United Arab Emirates
+
+Value Added Tax (VAT) was introduced in the United Arab Emirates on 1 January 2018 at a standard rate of 5%. VAT is an indirect tax administered by the Federal Tax Authority (FTA) and applies to most goods and services supplied in the UAE, including imports.
+
+Businesses with taxable supplies and imports exceeding AED 375,000 per year are required to register for VAT. Businesses with taxable supplies and imports exceeding AED 187,500 per year may register voluntarily. Once registered, a business must charge VAT on its taxable supplies, file periodic VAT returns (usually quarterly), and pay any net VAT due to the FTA.
+
+Certain supplies are zero-rated, meaning VAT is charged at 0% but the supplier can still reclaim input VAT. Zero-rated categories include exports of goods and services outside the GCC VAT implementing states, international transportation, the first supply of newly constructed residential buildings within three years of completion, certain education and healthcare services, and investment-grade precious metals.
+
+Other supplies are exempt from VAT, meaning no VAT is charged and input VAT cannot be reclaimed. Exempt categories include the supply of certain financial services, residential buildings (other than the first supply), bare land, and local passenger transport.
+
+VAT receipts are a significant source of non-oil revenue for the UAE federal budget. The introduction of VAT was part of a GCC-wide framework agreement, although not all GCC states have implemented VAT to date.
+
+(Source: adapted from the Wikipedia article on the Value Added Tax regime in the UAE.)
+
