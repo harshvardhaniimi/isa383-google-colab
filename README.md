@@ -26,6 +26,7 @@ Then select **File > Save a copy in Drive** so your work is saved in your own Go
 
 Required course data is included in this repository and downloaded automatically by the notebooks.
 Larger practice datasets are generated inside Colab.
+Notebooks 10 to 12 also run on your own computer: outside Colab, they save the course data in an `isa383` folder inside your home folder.
 
 Notebooks 09 to 12 use the passenger list of the RMS *Titanic*, stored in the `data` folder:
 
